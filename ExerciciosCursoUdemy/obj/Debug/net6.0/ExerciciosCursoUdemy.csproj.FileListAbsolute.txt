@@ -1,0 +1,15 @@
+C:\Projetos\Visual Studio\Curso C# Udemy - Pratica\ExerciciosCursoUdemy\ExerciciosCursoUdemy\bin\Debug\net6.0\ExerciciosCursoUdemy.exe
+C:\Projetos\Visual Studio\Curso C# Udemy - Pratica\ExerciciosCursoUdemy\ExerciciosCursoUdemy\bin\Debug\net6.0\ExerciciosCursoUdemy.deps.json
+C:\Projetos\Visual Studio\Curso C# Udemy - Pratica\ExerciciosCursoUdemy\ExerciciosCursoUdemy\bin\Debug\net6.0\ExerciciosCursoUdemy.runtimeconfig.json
+C:\Projetos\Visual Studio\Curso C# Udemy - Pratica\ExerciciosCursoUdemy\ExerciciosCursoUdemy\bin\Debug\net6.0\ExerciciosCursoUdemy.dll
+C:\Projetos\Visual Studio\Curso C# Udemy - Pratica\ExerciciosCursoUdemy\ExerciciosCursoUdemy\bin\Debug\net6.0\ExerciciosCursoUdemy.pdb
+C:\Projetos\Visual Studio\Curso C# Udemy - Pratica\ExerciciosCursoUdemy\ExerciciosCursoUdemy\obj\Debug\net6.0\ExerciciosCursoUdemy.csproj.AssemblyReference.cache
+C:\Projetos\Visual Studio\Curso C# Udemy - Pratica\ExerciciosCursoUdemy\ExerciciosCursoUdemy\obj\Debug\net6.0\ExerciciosCursoUdemy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Visual Studio\Curso C# Udemy - Pratica\ExerciciosCursoUdemy\ExerciciosCursoUdemy\obj\Debug\net6.0\ExerciciosCursoUdemy.AssemblyInfoInputs.cache
+C:\Projetos\Visual Studio\Curso C# Udemy - Pratica\ExerciciosCursoUdemy\ExerciciosCursoUdemy\obj\Debug\net6.0\ExerciciosCursoUdemy.AssemblyInfo.cs
+C:\Projetos\Visual Studio\Curso C# Udemy - Pratica\ExerciciosCursoUdemy\ExerciciosCursoUdemy\obj\Debug\net6.0\ExerciciosCursoUdemy.csproj.CoreCompileInputs.cache
+C:\Projetos\Visual Studio\Curso C# Udemy - Pratica\ExerciciosCursoUdemy\ExerciciosCursoUdemy\obj\Debug\net6.0\ExerciciosCursoUdemy.dll
+C:\Projetos\Visual Studio\Curso C# Udemy - Pratica\ExerciciosCursoUdemy\ExerciciosCursoUdemy\obj\Debug\net6.0\refint\ExerciciosCursoUdemy.dll
+C:\Projetos\Visual Studio\Curso C# Udemy - Pratica\ExerciciosCursoUdemy\ExerciciosCursoUdemy\obj\Debug\net6.0\ExerciciosCursoUdemy.pdb
+C:\Projetos\Visual Studio\Curso C# Udemy - Pratica\ExerciciosCursoUdemy\ExerciciosCursoUdemy\obj\Debug\net6.0\ExerciciosCursoUdemy.genruntimeconfig.cache
+C:\Projetos\Visual Studio\Curso C# Udemy - Pratica\ExerciciosCursoUdemy\ExerciciosCursoUdemy\obj\Debug\net6.0\ref\ExerciciosCursoUdemy.dll
