@@ -1,4 +1,4 @@
-﻿using ExerciciosCursoUdemy._1.Lógica.Estrutura_Condicional;
+﻿using ExerciciosCursoUdemy._1.Lógica.Estrutura_While;
 
 namespace ExerciciosCursoUdemy
 {
@@ -6,8 +6,8 @@ namespace ExerciciosCursoUdemy
     {
         static void Main(string[] args)
         {
-            Exercicio8 ex = new Exercicio8();
-            ex.ImpostoDeRenda();
+            Exercicio3 ex = new Exercicio3();
+            ex.Combustivel();
         }
     }
 }
