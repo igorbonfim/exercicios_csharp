@@ -13,8 +13,8 @@ namespace ExerciciosCursoUdemy._1.Lógica.Estrutura_While
     {
         public void Combustivel()
         {
-            int combustivel = int.Parse(Console.ReadLine());
             int alcool = 0, gasolina = 0, diesel = 0;
+            int combustivel = int.Parse(Console.ReadLine());
 
             while (combustivel != 4)
             {              

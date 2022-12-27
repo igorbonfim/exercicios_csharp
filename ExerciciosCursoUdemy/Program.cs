@@ -1,4 +1,4 @@
-﻿using ExerciciosCursoUdemy._1.Lógica.Estrutura_While;
+﻿using ExerciciosCursoUdemy._1.Lógica.Estrutura_For;
 
 namespace ExerciciosCursoUdemy
 {
@@ -6,8 +6,8 @@ namespace ExerciciosCursoUdemy
     {
         static void Main(string[] args)
         {
-            Exercicio3 ex = new Exercicio3();
-            ex.Combustivel();
+            Exercicio7 ex = new Exercicio7();
+            ex.NumeroPositivo();
         }
     }
 }
