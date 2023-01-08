@@ -1,4 +1,4 @@
-﻿using ExerciciosCursoUdemy._1.Lógica.Estrutura_For;
+﻿using ExerciciosCursoUdemy._2.Classes_e_Metodos;
 
 namespace ExerciciosCursoUdemy
 {
@@ -6,8 +6,8 @@ namespace ExerciciosCursoUdemy
     {
         static void Main(string[] args)
         {
-            Exercicio7 ex = new Exercicio7();
-            ex.NumeroPositivo();
+            Exercicio3 ex = new Exercicio3();
+            ex.CalculaMedia();
         }
     }
 }
