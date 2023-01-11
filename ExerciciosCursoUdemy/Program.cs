@@ -6,8 +6,8 @@ namespace ExerciciosCursoUdemy
     {
         static void Main(string[] args)
         {
-            Exercicio3 ex = new Exercicio3();
-            ex.CalculaMedia();
+            Exercicio4 ex = new Exercicio4();
+            ex.ConversaoDolarReal();
         }
     }
 }
