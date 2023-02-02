@@ -1,4 +1,4 @@
-﻿using ExerciciosCursoUdemy._2.Classes_e_Metodos;
+﻿using ExerciciosCursoUdemy._3.Encapsulamento;
 
 namespace ExerciciosCursoUdemy
 {
@@ -6,8 +6,8 @@ namespace ExerciciosCursoUdemy
     {
         static void Main(string[] args)
         {
-            Exercicio4 ex = new Exercicio4();
-            ex.ConversaoDolarReal();
+            Exercicio1 ex = new Exercicio1();
+            ex.ContaBanco();
         }
     }
 }
