@@ -7,8 +7,8 @@ namespace ExerciciosCursoUdemy
     {
         static void Main(string[] args)
         {
-            AluguelQuarto ex = new AluguelQuarto();
-            ex.AlugaQuarto();
+            ListEmployees ex = new ListEmployees();
+            ex.ListEmployeesSalary();
         }
     }
 }
