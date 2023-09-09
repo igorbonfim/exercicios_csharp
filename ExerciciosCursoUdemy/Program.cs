@@ -1,5 +1,5 @@
 ﻿using ExerciciosCursoUdemy._3.Encapsulamento;
-using ExerciciosCursoUdemy._4.Listas;
+using ExerciciosCursoUdemy._5.Matrizes;
 
 namespace ExerciciosCursoUdemy
 {
@@ -7,8 +7,8 @@ namespace ExerciciosCursoUdemy
     {
         static void Main(string[] args)
         {
-            ListEmployees ex = new ListEmployees();
-            ex.ListEmployeesSalary();
+            Matriz ex = new Matriz();
+            ex.ExercicioMatriz();
         }
     }
 }
