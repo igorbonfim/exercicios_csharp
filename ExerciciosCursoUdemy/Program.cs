@@ -1,5 +1,4 @@
-﻿using ExerciciosCursoUdemy._3.Encapsulamento;
-using ExerciciosCursoUdemy._5.Matrizes;
+﻿using ExerciciosCursoUdemy._6.Enums;
 
 namespace ExerciciosCursoUdemy
 {
@@ -7,8 +6,15 @@ namespace ExerciciosCursoUdemy
     {
         static void Main(string[] args)
         {
-            Matriz ex = new Matriz();
-            ex.ExercicioMatriz();
+            Order order = new Order
+            {
+                Id = 1,
+                Moment = DateTime.Now,
+                Status = OrderStatus.PendingPayment
+            };
+
+            Console.WriteLine(order);
+            
         }
     }
 }
