@@ -1,4 +1,4 @@
-﻿using ExerciciosCursoUdemy._6.Enums;
+﻿using ExerciciosCursoUdemy._7.Composição;
 
 namespace ExerciciosCursoUdemy
 {
@@ -6,15 +6,8 @@ namespace ExerciciosCursoUdemy
     {
         static void Main(string[] args)
         {
-            Order order = new Order
-            {
-                Id = 1,
-                Moment = DateTime.Now,
-                Status = OrderStatus.PendingPayment
-            };
-
-            Console.WriteLine(order);
-            
+            ExemploEnumComposicao ex = new ExemploEnumComposicao();
+            ex.ExercicioExemplo();
         }
     }
 }
