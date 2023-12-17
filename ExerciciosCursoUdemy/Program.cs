@@ -6,8 +6,8 @@ namespace ExerciciosCursoUdemy
     {
         static void Main(string[] args)
         {
-            ExemploEnumComposicao ex = new ExemploEnumComposicao();
-            ex.ExercicioExemplo();
+            ExercicioFixacaoEnumComposicao ex = new ExercicioFixacaoEnumComposicao();
+            ex.ExercicioEnumComposicao();
         }
     }
 }
