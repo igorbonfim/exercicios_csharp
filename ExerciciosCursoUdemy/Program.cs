@@ -1,4 +1,4 @@
-﻿using ExerciciosCursoUdemy._7.Composição;
+﻿using ExerciciosCursoUdemy._8.Herança_e_Polimorfismo;
 
 namespace ExerciciosCursoUdemy
 {
@@ -6,8 +6,8 @@ namespace ExerciciosCursoUdemy
     {
         static void Main(string[] args)
         {
-            ExercicioFixacaoEnumComposicao ex = new ExercicioFixacaoEnumComposicao();
-            ex.ExercicioEnumComposicao();
+            ExercicioHerancaPolimorfismo ex = new ExercicioHerancaPolimorfismo();
+            ex.Exercicio();
         }
     }
 }

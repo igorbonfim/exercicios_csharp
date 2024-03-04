@@ -47,7 +47,7 @@ namespace ExerciciosCursoUdemy._7.Composição
                 order.AddItem(orderItem);
             }
             Console.WriteLine();
-            Console.WriteLine(order.ToString());
+            Console.WriteLine(order);
         }
     }
 }
