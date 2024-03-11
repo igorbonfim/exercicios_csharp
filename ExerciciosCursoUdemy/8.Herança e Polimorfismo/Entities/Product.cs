@@ -1,4 +1,5 @@
 ﻿namespace ExerciciosCursoUdemy._8.Herança_e_Polimorfismo.Entities;
+
 using System.Globalization;
 class Product
 {

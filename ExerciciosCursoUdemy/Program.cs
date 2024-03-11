@@ -6,8 +6,8 @@ namespace ExerciciosCursoUdemy
     {
         static void Main(string[] args)
         {
-            ExercicioHerancaPolimorfismo ex = new ExercicioHerancaPolimorfismo();
-            ex.Exercicio();
+            ExercicioMetodoAbstrato ex = new ExercicioMetodoAbstrato();
+            ex.ExercicioResolucao();
         }
     }
 }
