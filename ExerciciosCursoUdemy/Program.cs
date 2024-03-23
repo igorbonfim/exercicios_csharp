@@ -1,4 +1,5 @@
 ﻿using ExerciciosCursoUdemy._8.Herança_e_Polimorfismo;
+using ExerciciosCursoUdemy._9.Tratamento_de_exceções;
 
 namespace ExerciciosCursoUdemy
 {
@@ -6,8 +7,8 @@ namespace ExerciciosCursoUdemy
     {
         static void Main(string[] args)
         {
-            ExercicioMetodoAbstrato ex = new ExercicioMetodoAbstrato();
-            ex.ExercicioResolucao();
+            ExercicioTratamentoDeExcecoes ex = new ExercicioTratamentoDeExcecoes();
+            ex.TratamentoDeExcecoes();
         }
     }
 }
