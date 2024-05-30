@@ -1,4 +1,4 @@
-﻿using ExerciciosCursoUdemy._10.Arquivos;
+﻿using ExerciciosCursoUdemy._11._Interfaces;
 
 namespace ExerciciosCursoUdemy
 {
@@ -6,8 +6,8 @@ namespace ExerciciosCursoUdemy
     {
         static void Main(string[] args)
         {
-            ExercicioArquivos arquivos = new ExercicioArquivos();
-            arquivos.ExerciciosArquivoCSV();
+            ExercicioInterfaces exercicioInterfaces = new ExercicioInterfaces();
+            exercicioInterfaces.ExInterfaces();
         }
     }
 }
