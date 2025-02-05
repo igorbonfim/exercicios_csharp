@@ -1,4 +1,4 @@
-﻿using ExerciciosCursoUdemy._11._Interfaces;
+﻿using ExerciciosCursoUdemy._12.Generics;
 
 namespace ExerciciosCursoUdemy
 {
@@ -6,8 +6,8 @@ namespace ExerciciosCursoUdemy
     {
         static void Main(string[] args)
         {
-            ExercicioInterfaces exercicioInterfaces = new ExercicioInterfaces();
-            exercicioInterfaces.ExInterfaces();
+            ExercicioConjuntos ex = new ExercicioConjuntos();
+            ex.Resolucao();
         }
     }
 }
