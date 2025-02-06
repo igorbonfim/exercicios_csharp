@@ -7,7 +7,7 @@ namespace ExerciciosCursoUdemy
         static void Main(string[] args)
         {
             ExercicioConjuntos ex = new ExercicioConjuntos();
-            ex.Resolucao();
+            ex.ResolucaoConjuntos();
         }
     }
 }
