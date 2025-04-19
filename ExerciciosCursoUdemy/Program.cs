@@ -1,4 +1,4 @@
-﻿using ExerciciosCursoUdemy._12.Generics;
+﻿using ExerciciosCursoUdemy._13.Expressões_lambda__delegates__linq;
 
 namespace ExerciciosCursoUdemy
 {
@@ -6,8 +6,8 @@ namespace ExerciciosCursoUdemy
     {
         static void Main(string[] args)
         {
-            ExercicioConjuntos ex = new ExercicioConjuntos();
-            ex.ResolucaoConjuntos();
+            ExercicioLinq ex = new ExercicioLinq();
+            ex.ResolucaoExercicioLinq();
         }
     }
 }

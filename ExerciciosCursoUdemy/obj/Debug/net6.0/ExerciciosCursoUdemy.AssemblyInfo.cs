@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExerciciosCursoUdemy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf7ae4e4b00d0ba5abbf2dd788742a3a3b30838f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+64aca5dccc62396d3d45054df56e6e678f07a783")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExerciciosCursoUdemy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExerciciosCursoUdemy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
